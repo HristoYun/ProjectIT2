@@ -1,0 +1,7 @@
+C:\Users\ickoy\source\repos\MindHealthApp\MindHealthApp\bin\Debug\MindHealthApp.exe.config
+C:\Users\ickoy\source\repos\MindHealthApp\MindHealthApp\bin\Debug\MindHealthApp.exe
+C:\Users\ickoy\source\repos\MindHealthApp\MindHealthApp\bin\Debug\MindHealthApp.pdb
+C:\Users\ickoy\source\repos\MindHealthApp\MindHealthApp\obj\Debug\MindHealthApp.csproj.AssemblyReference.cache
+C:\Users\ickoy\source\repos\MindHealthApp\MindHealthApp\obj\Debug\MindHealthApp.csproj.CoreCompileInputs.cache
+C:\Users\ickoy\source\repos\MindHealthApp\MindHealthApp\obj\Debug\MindHealthApp.exe
+C:\Users\ickoy\source\repos\MindHealthApp\MindHealthApp\obj\Debug\MindHealthApp.pdb
